@@ -4,3 +4,7 @@ Need a through preparation over permutation and combination (Not a begineer leve
 For getting started https://www.udemy.com/dontmemorise_permutations_combinations/learn/v4/overview
 If you are really serious of solving this take this http://math.sfsu.edu/federico/Clase/EC/ec.html or https://www.youtube.com/watch?v=pCJNjW8kMIg&app=desktop
 
+
+
+I need to learn Partitions this is getting tricky for me.
+
