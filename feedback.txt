@@ -8,3 +8,4 @@ If you are really serious of solving this take this http://math.sfsu.edu/federic
 
 I need to learn Partitions this is getting tricky for me.
 
+Learn Graph theory and Advanced Graph theory courses in NPTEL.
